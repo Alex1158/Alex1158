@@ -3,10 +3,13 @@
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=2000&pause=800&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Ol%C3%A1+++Bem+Vindo!++%3A-);Me+chamo+Alex+Tomaz+;Sou++++Estudante++de+ADS" alt="Typing SVG" /></a>
 </div>
+<p></p>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alex1158&show_icons=true&count_private=true&hide_border=true&title_color=00008B&icon_color=0000FF&text_color=00BFFF&bg_color=B0E0E6" alt="Alex Tomaz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1158&layout=compact&hide_border=true&title_color=00008B&text_color=00BFFF&bg_color=0d1117" />
+  
 </div>
+<br></br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alex1158&bg_color=010713&color=0400eb&line=2c87e8&point=2e96d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
