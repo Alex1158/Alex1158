@@ -3,7 +3,7 @@
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=2000&pause=800&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Ol%C3%A1+++Bem+Vindo!++%3A-);Me+chamo+Alex+Tomaz+;Sou++++Estudante++de+ADS" alt="Typing SVG" /></a>
 </div>
-<p></p>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alex1158&show_icons=true&count_private=true&hide_border=true&title_color=00008B&icon_color=0000FF&text_color=00BFFF&bg_color=B0E0E6" alt="Alex Tomaz github stats" /> 
