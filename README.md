@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alex1158&show_icons=true&count_private=true&hide_border=true&title_color=00008B&icon_color=0000FF&text_color=00BFFF&bg_color=B0E0E6" alt="Alex Tomaz github stats" /> 
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1158&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+ <img width="49.6%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1158&layout=compact&hide_border=true&title_color=00008B&text_color=00BFFF&bg_color=B0E0E6" />
  
 </div>
 <br></br>
